@@ -1,0 +1,15 @@
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Manager\bin\Debug\net6.0\ApiManager.deps.json
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Manager\bin\Debug\net6.0\ApiManager.dll
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Manager\bin\Debug\net6.0\ApiManager.pdb
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Manager\bin\Debug\net6.0\DataAccess.dll
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Manager\bin\Debug\net6.0\DataAccess.pdb
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Manager\obj\Debug\net6.0\ApiManager.csproj.AssemblyReference.cache
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Manager\obj\Debug\net6.0\ApiManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Manager\obj\Debug\net6.0\ApiManager.AssemblyInfoInputs.cache
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Manager\obj\Debug\net6.0\ApiManager.AssemblyInfo.cs
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Manager\obj\Debug\net6.0\ApiManager.csproj.CoreCompileInputs.cache
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Manager\obj\Debug\net6.0\ApiManager.csproj.CopyComplete
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Manager\obj\Debug\net6.0\ApiManager.dll
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Manager\obj\Debug\net6.0\refint\ApiManager.dll
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Manager\obj\Debug\net6.0\ApiManager.pdb
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Manager\obj\Debug\net6.0\ref\ApiManager.dll

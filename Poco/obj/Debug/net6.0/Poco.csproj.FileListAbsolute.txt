@@ -1,0 +1,12 @@
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Poco\bin\Debug\net6.0\Poco.deps.json
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Poco\bin\Debug\net6.0\Poco.dll
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Poco\bin\Debug\net6.0\Poco.pdb
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Poco\obj\Debug\net6.0\Poco.csproj.AssemblyReference.cache
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Poco\obj\Debug\net6.0\Poco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Poco\obj\Debug\net6.0\Poco.AssemblyInfoInputs.cache
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Poco\obj\Debug\net6.0\Poco.AssemblyInfo.cs
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Poco\obj\Debug\net6.0\Poco.csproj.CoreCompileInputs.cache
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Poco\obj\Debug\net6.0\Poco.dll
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Poco\obj\Debug\net6.0\refint\Poco.dll
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Poco\obj\Debug\net6.0\Poco.pdb
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\Poco\obj\Debug\net6.0\ref\Poco.dll

@@ -1,0 +1,15 @@
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\DataAccess\bin\Debug\net6.0\Poco.dll
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\DataAccess\bin\Debug\net6.0\Poco.pdb
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Books\Master\Tareas\NoSQLFinal\Master_FinalProject\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
